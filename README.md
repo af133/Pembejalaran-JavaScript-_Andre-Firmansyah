@@ -59,5 +59,5 @@ Repositori ini berisi materi, kode, dan contoh yang dirancang untuk membantu And
 
 1. **Clone repositori ini**  
    ```bash
-   git clone https://github.com/username/pembelajaran-javascript.git
+   git clone https://github.com/username/pembelajaran-javascript.git](https://github.com/af133/Pembejalaran-JavaScript-_Andre-Firmansyah.git
    cd pembelajaran-javascript
